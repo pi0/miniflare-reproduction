@@ -1,0 +1,10 @@
+{
+  "name": "miniflare-reproduction",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "node test.mjs"
+  },
+  "dependencies": {
+    "miniflare": "^3.20231218.0"
+  }
+}
